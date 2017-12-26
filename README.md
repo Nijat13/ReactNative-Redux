@@ -35,6 +35,7 @@ yarn test
 ## Used technologies
 For using this boilerplate, you have to check those tools:
 1. [React-Native](https://facebook.github.io/react-native/)
+1. [React-Navigation](https://github.com/react-community/react-navigation)
 1. [React-Redux](https://github.com/reactjs/react-redux)
 1. [Redux-Saga](https://github.com/redux-saga/redux-saga)
 1. [NativeBase](https://github.com/GeekyAnts/NativeBase)
