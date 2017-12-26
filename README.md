@@ -22,6 +22,16 @@ npm start -- --reset-cache
 yarn start -- --reset-cache
 ```
 
+## How to test
+
+```
+npm test
+
+# or
+
+yarn test
+```
+
 ## Used technologies
 For using this boilerplate, you have to check those tools:
 1. [React-Native](https://facebook.github.io/react-native/)
