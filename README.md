@@ -43,6 +43,11 @@ For using this boilerplate, you have to check those tools:
 
 This boilerplate is using the __CreateNativeApp__ tool. The detailed information about [create-react-native-app](https://github.com/Nijat13/reactNative-redux/blob/master/crnapp.md).
 
+Future implementations:
+
+- [ ] Redux Devtools.
+- [ ] ESlint config and rules.
+
 ### Authors and license ###
 [Nijat Ahmadov](https://github.com/Nijat13).
 
