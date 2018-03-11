@@ -45,7 +45,7 @@ This boilerplate is using the __CreateNativeApp__ tool. The detailed information
 
 ### Future implementations:
 
-- [ ] Redux Devtools.
+- [x] Redux Devtools.
 - [ ] ESlint config and rules.
 
 ### Authors and license ###
